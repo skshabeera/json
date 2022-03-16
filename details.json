@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "user_name": "shab",
+            "password": "Sabw@12",
+            "con_password": "Sabw@12",
+            "profile": {
+                "gender": "fe",
+                "description": "ddd",
+                "Dob": "23",
+                "hobbies": ""
+            }
+        },
+        

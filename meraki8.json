@@ -1,0 +1,26 @@
+{
+    "em1": {
+        "name": "neelam",
+        "desigination": "programer",
+        "age": "24",
+        "salary": "2400"
+    },
+    "em2": {
+        "name": "komal",
+        "desigination": "trainer",
+        "age": "24",
+        "salary": "20000"
+    },
+    "em3": {
+        "name": "anuradha",
+        "desigination": "HR",
+        "age": "25",
+        "salary": "40000"
+    },
+    "em4": {
+        "name": "Abhishek",
+        "desigination": "manager",
+        "age": "29",
+        "salary": "63000"
+    }
+}
